@@ -1,5 +1,12 @@
 Hola
 
+London
+New york
+New Zealand
+Canadá
+
 Esta es una prueba para GIT
 
-del curso de PLATZI en la escuela de Data Science
+2022 - 2023 - 2024
+
+del curso de PLATZI en la escuela de Data Science, y programación.
